@@ -33,3 +33,4 @@ This Raspberry Pi High Altitude Balloon will be designed to study PM (particulat
 ### Download and Install Arduino IDE
 Download the Arduino IDE from [https://www.arduino.cc/en/software]. While installing (and a while after), there will be a lot of warnings, but don't worry, it's just Arduino IDE installing drivers.
 ![Arduino IDE when you first run it](https://user-images.githubusercontent.com/107514703/180049931-a1dbbef8-35b9-416e-b68d-97752d9cec96.png)
+You will also need to install
