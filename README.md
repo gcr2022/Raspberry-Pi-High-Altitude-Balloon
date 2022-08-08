@@ -1,4 +1,4 @@
-# Raspberry-Pi-High-Altitude-Balloon
+# Raspberry Pi High Altitude Balloon
 ## Introduction
 This Raspberry Pi High Altitude Balloon will be designed to study PM (particulate matter) fluctuations depending on time and altitude. The goals of the mission are:
 1. Succesfully complete the flight and recovery
@@ -6,11 +6,7 @@ This Raspberry Pi High Altitude Balloon will be designed to study PM (particulat
 3. Succesfull recovery of data and video
 
 ## Bill of Materials
-1. Raspberry Pi Pico with Headers
-2. Adafruit RFM95W LoRa Radio Transceiver Breakout (IMPORTANT: Check which frequency is used in your country. In my case (Mexico) 915 MHz is used)
-3. 3X Raspberry Pi 3B, 3B+, 3A+, Zero 2W or 4B
-4. 2X Uputronics Raspberry Pi+ LoRa(TM) Expansion Board
-5. Adafruit Perma-Proto Half-sized Breadboard PCB
-6. Raspberry Pi Camera Module V2
-7. The most powerful duct tape you can find
-8. 
+1. The most powerful duct tape you can find
+2. 3X Raspberry Pi 3B/3B+/3A+/Zero 2W/4B (For the gateways (ONLY THE GATEWAYS, NOT THE BALLOON) you can use a Raspberry Pi 400)
+3. Adafruit LoRa Radio Bonnet with OLED - RFM95W (RFM96W for 433 MHz) (IMPORTANT: Check which frequency is used in your country)
+4. 
